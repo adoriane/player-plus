@@ -1,2 +1,2 @@
 # player-plus
-affichage dinamique
+affichage dinamyque
