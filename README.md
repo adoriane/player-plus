@@ -1,2 +1,4 @@
 # player-plus
-affichage dinamyque
+affichage dynamique
+
+## Qu'est-ce que c'est ?
